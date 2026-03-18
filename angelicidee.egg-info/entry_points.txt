@@ -1,0 +1,2 @@
+[console_scripts]
+vd-games = games_project_cherepanov.VD_games.scripts.VD_games:main

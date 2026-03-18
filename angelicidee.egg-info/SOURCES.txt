@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+angelicidee.egg-info/PKG-INFO
+angelicidee.egg-info/SOURCES.txt
+angelicidee.egg-info/dependency_links.txt
+angelicidee.egg-info/entry_points.txt
+angelicidee.egg-info/top_level.txt
+games_project_cherepanov/__init__.py
+games_project_cherepanov/VD_games/__init__.py
+games_project_cherepanov/VD_games/scripts/VD_games.py
+games_project_cherepanov/VD_games/scripts/VD_main.py
+games_project_cherepanov/VD_games/scripts/__init__.py

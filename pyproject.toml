@@ -1,0 +1,21 @@
+[project]
+name = "angelicidee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+vd-games = "games_project_cherepanov.VD_games.scripts.VD_games:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.uv]
+package = true
+
+
+[tool.setuptools.packages.find]
+include = ["games_project_cherepanov*"]

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+games_project_cherepanov/__init__.py
+shtoo.egg-info/PKG-INFO
+shtoo.egg-info/SOURCES.txt
+shtoo.egg-info/dependency_links.txt
+shtoo.egg-info/entry_points.txt
+shtoo.egg-info/top_level.txt
