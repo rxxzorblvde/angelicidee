@@ -13,6 +13,7 @@ games_project_cherepanov/VD_games/scripts/VD_even.py
 games_project_cherepanov/VD_games/scripts/VD_games.py
 games_project_cherepanov/VD_games/scripts/VD_main.py
 games_project_cherepanov/VD_games/scripts/__init__.py
+games_project_cherepanov/VD_games/scripts/brain_calc.py
 games_project_cherepanov/VD_games/scripts/vd_even.py
 games_project_cherepanov/VD_games/scripts/vd_games.py
 games_project_cherepanov/VD_games/scripts/vd_main.py

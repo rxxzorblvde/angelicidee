@@ -1,3 +1,4 @@
 [console_scripts]
+vd-calc = games_project_cherepanov.VD_games.scripts.brain_calc:main
 vd-even = games_project_cherepanov.VD_games.scripts.vd_even:main
 vd-games = games_project_cherepanov.VD_games.scripts.vd_games:main
