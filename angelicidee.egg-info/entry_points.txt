@@ -1,2 +1,3 @@
 [console_scripts]
-vd-games = games_project_cherepanov.VD_games.scripts.VD_games:main
+vd-even = games_project_cherepanov.VD_games.scripts.vd_even:main
+vd-games = games_project_cherepanov.VD_games.scripts.vd_games:main
