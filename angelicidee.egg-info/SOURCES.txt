@@ -7,6 +7,7 @@ angelicidee.egg-info/entry_points.txt
 angelicidee.egg-info/requires.txt
 angelicidee.egg-info/top_level.txt
 games_project_cherepanov/__init__.py
+games_project_cherepanov/engine.py
 games_project_cherepanov/VD_games/__init__.py
 games_project_cherepanov/VD_games/cli.py
 games_project_cherepanov/VD_games/scripts/VD_even.py
@@ -18,3 +19,10 @@ games_project_cherepanov/VD_games/scripts/vd_even.py
 games_project_cherepanov/VD_games/scripts/vd_games.py
 games_project_cherepanov/VD_games/scripts/vd_gcd.py
 games_project_cherepanov/VD_games/scripts/vd_main.py
+games_project_cherepanov/VD_games/scripts/vd_prime.py
+games_project_cherepanov/VD_games/scripts/vd_progression.py
+games_project_cherepanov/games/calc.py
+games_project_cherepanov/games/even.py
+games_project_cherepanov/games/gcd.py
+games_project_cherepanov/games/prime.py
+games_project_cherepanov/games/progression.py

@@ -13,6 +13,8 @@ vd-games = "games_project_cherepanov.VD_games.scripts.vd_games:main"
 vd-even = "games_project_cherepanov.VD_games.scripts.vd_even:main"
 vd-calc = "games_project_cherepanov.VD_games.scripts.brain_calc:main"
 vd-gcd = "games_project_cherepanov.VD_games.scripts.vd_gcd:main"
+vd-progression = "games_project_cherepanov.VD_games.scripts.vd_progression:main"
+vd-prime = "games_project_cherepanov.VD_games.scripts.vd_prime:main"
 
 [build-system]
 requires = ["setuptools>=68", "wheel"]
