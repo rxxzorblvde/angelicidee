@@ -12,6 +12,7 @@ dependencies = [
 vd-games = "games_project_cherepanov.VD_games.scripts.vd_games:main"
 vd-even = "games_project_cherepanov.VD_games.scripts.vd_even:main"
 vd-calc = "games_project_cherepanov.VD_games.scripts.brain_calc:main"
+vd-gcd = "games_project_cherepanov.VD_games.scripts.vd_gcd:main"
 
 [build-system]
 requires = ["setuptools>=68", "wheel"]
